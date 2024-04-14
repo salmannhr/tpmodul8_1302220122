@@ -12,3 +12,4 @@ D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\salman_tpmodul8_1302220122\salman_tpm
 D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\salman_tpmodul8_1302220122\salman_tpmodul8_1302220122\obj\Debug\net8.0\salman_tpmodul8_1302220122.pdb
 D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\salman_tpmodul8_1302220122\salman_tpmodul8_1302220122\obj\Debug\net8.0\salman_tpmodul8_1302220122.genruntimeconfig.cache
 D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\salman_tpmodul8_1302220122\salman_tpmodul8_1302220122\obj\Debug\net8.0\ref\salman_tpmodul8_1302220122.dll
+D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\salman_tpmodul8_1302220122\salman_tpmodul8_1302220122\obj\Debug\net8.0\salman_tpmodul8_1302220122.sourcelink.json

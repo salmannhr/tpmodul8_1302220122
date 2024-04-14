@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{866C77CD-1114-4447-A856-EFC51EC5A3F3}|salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122.csproj|d:\\!kuliah\\tingkat 2\\semester 4\\kpl\\tp_kpl\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866C77CD-1114-4447-A856-EFC51EC5A3F3}|salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122.csproj|solutionrelative:salman_tpmodul8_1302220122\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{866C77CD-1114-4447-A856-EFC51EC5A3F3}|salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122.csproj|d:\\!kuliah\\tingkat 2\\semester 4\\kpl\\tp_kpl\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{866C77CD-1114-4447-A856-EFC51EC5A3F3}|salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122.csproj|solutionrelative:salman_tpmodul8_1302220122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDB5634-82F0-46DC-8385-75BF54B6C8C4}|Solution Items{9DDB5634-82F0-46DC-8385-75BF54B6C8C4}|D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DDB5634-82F0-46DC-8385-75BF54B6C8C4}|Solution Items{9DDB5634-82F0-46DC-8385-75BF54B6C8C4}|solutionrelative:covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866C77CD-1114-4447-A856-EFC51EC5A3F3}|salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122.csproj|d:\\!kuliah\\tingkat 2\\semester 4\\kpl\\tp_kpl\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{866C77CD-1114-4447-A856-EFC51EC5A3F3}|salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122.csproj|solutionrelative:salman_tpmodul8_1302220122\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "salman_tpmodul8_1302220122\\CovidConfig.cs",
+              "ToolTip": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\CovidConfig.cs",
+              "RelativeToolTip": "salman_tpmodul8_1302220122\\CovidConfig.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAzwBQAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:06:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\covid_config.json",
+              "RelativeDocumentMoniker": "covid_config.json",
+              "ToolTip": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\covid_config.json",
+              "RelativeToolTip": "covid_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T19:05:23.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\.gitignore",
+              "RelativeDocumentMoniker": "salman_tpmodul8_1302220122\\.gitignore",
+              "ToolTip": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\.gitignore",
+              "RelativeToolTip": "salman_tpmodul8_1302220122\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T19:01:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\Program.cs",
               "RelativeDocumentMoniker": "salman_tpmodul8_1302220122\\Program.cs",
               "ToolTip": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\salman_tpmodul8_1302220122\\salman_tpmodul8_1302220122\\Program.cs",
               "RelativeToolTip": "salman_tpmodul8_1302220122\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T17:27:42.54Z",
               "EditorCaption": ""

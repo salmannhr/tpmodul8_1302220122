@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("salman_tpmodul8_1302220122")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3289ca32d3216a5e113b330aed29708f126f05f")]
 [assembly: System.Reflection.AssemblyProductAttribute("salman_tpmodul8_1302220122")]
 [assembly: System.Reflection.AssemblyTitleAttribute("salman_tpmodul8_1302220122")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
